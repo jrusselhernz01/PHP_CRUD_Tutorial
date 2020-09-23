@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP_CRUD_Tutorial</title>
+    <title>PHP_CRUD_Tutorial_GIT</title>
 </head>
     <style>
         html, body{
