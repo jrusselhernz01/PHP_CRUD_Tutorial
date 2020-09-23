@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP_CRUD_Tutorial_GITs</title>
+    <title>PHP_CRUD_Tutorial_GIT</title>
 </head>
     <style>
         html, body{
@@ -48,7 +48,7 @@
 <body>
     <div class="main">
         <form class="create-main" action="/php_crud_tutorial/create.php" method="post">
-            <h3>CREATE USER</h3>
+            <h3>CREATE A USER</h3>
             <input type="text" name="username" placeholder="Enter your username" required />
             <input type="password" name="password" placeholder="Enter your password" required />
             <input type="submit" name="create" value="CREATE" />
